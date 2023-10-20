@@ -4,9 +4,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krishnakk21&theme=" alt="Krishnakk21" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
-- 📫 How to reach me **khandelwalk297@gmail.com**
+- 🌱 I’m currently learning ***Web Development***
+- 💬 Ask me about ***HTML, CSS, JAVASCRIPT***
+- 📫 How to reach me ***khandelwalk297@gmail.com***
+- 👯 I’m looking to collaborate on ***Full Stack Developer***
 
 <div> <a href="https://www.linkedin.com/in/www.linkedin.com/in/ krishna-khandelwal-b07473194" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Krishnakk21" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
