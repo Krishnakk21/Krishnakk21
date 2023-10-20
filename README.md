@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krishnakk21&theme=" alt="Krishnakk21" /></a> </p>
 
-- 🌱 I’m currently learning ** Web Development**
+- 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 - 📫 How to reach me **khandelwalk297@gmail.com**
 
