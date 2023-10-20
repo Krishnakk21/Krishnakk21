@@ -35,9 +35,10 @@
 <div align="center">
 <a href="https://github.com/Krishnakk21">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krishnakk21&theme=material_palenight" height="180em" />
-<p>  </p>
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishnakk21&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishnakk21&theme=material_palenight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krishnakk21&theme=2077" height="180em" />
+<p>  </p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishnakk21&theme=codeSTACKr" height="180em" />
 </div>
